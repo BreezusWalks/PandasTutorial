@@ -1,0 +1,5 @@
+This is the code following Sentdex's Data Analysis with Python and Pandas tutorial.
+Code has been updated to account for changes to different libraries in 2019.
+
+Methods were modified to output to pickles so an API call to Quandl did not need to be made every time a file was ran.
+The functions were left in the code commented out in case updated data is needed.
